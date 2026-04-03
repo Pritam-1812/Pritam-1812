@@ -25,8 +25,10 @@ To be a skilled AI Engineer and work on impactful real-world solutions.
 
 I'm open to collaborating on interesting projects, internships, or research opportunities. Feel free to reach out to me via:
 
-- [Email](mailto:pritamborate14@gmail.com)
-  
-- [LinkedIn](https://linkedin.com/in/pritam-borate-8aa2b030a)
+- 📧 Email: pritamborate14@gmail.com  
+  👉 [Send Email](mailto:pritamborate14@gmail.com)
 
+- 💼 LinkedIn: https://linkedin.com/in/pritam-borate-8aa2b030a  
+  👉 [Visit LinkedIn](https://linkedin.com/in/pritam-borate-8aa2b030a)
+  
 Thank you for visiting my GitHub profile! I'm looking forward to connecting with you and exploring exciting opportunities.
