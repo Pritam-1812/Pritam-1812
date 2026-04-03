@@ -1,8 +1,8 @@
-## Pritam Borate
-# ⭐ About Me
+# Pritam Borate
+## ⭐ About Me
 Aspiring AI/ML Engineer passionate about learning and buildingin the field of Artifical Intelligence, Machine Learning and Genrative AI.
 
-# 📖 Skills
+## 📖 Skills
 
 * AI / ML & GenAI : Genrative AI, NLP, LLMs, Tensorflow, Machine Learning Models, Model Training, Agentic AI (RAG, Neo4j)
 
@@ -18,10 +18,10 @@ Aspiring AI/ML Engineer passionate about learning and buildingin the field of Ar
 
 * Tools: Git, GitHub, Visual Studio Code, Canva
 
-# 🎯 Goal 
+## 🎯 Goal 
 To be a skilled AI Engineer and work on impactful real-world solutions.
 
-# 📞 Contact Me
+## 📞 Contact Me
 
 I'm open to collaborating on interesting projects, internships, or research opportunities. Feel free to reach out to me via:
 
