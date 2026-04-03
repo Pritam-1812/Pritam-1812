@@ -22,8 +22,11 @@ Aspiring AI/ML Engineer passionate about learning and buildingin the field of Ar
 To be a skilled AI Engineer and work on impactful real-world solutions.
 
 # 📞 Contact Me
+
 I'm open to collaborating on interesting projects, internships, or research opportunities. Feel free to reach out to me via:
 
 Email: pritamborate14@gmail.com
+
 LinkedIn: linkedin.com/in/pritam-borate-8aa2b030a
+
 Thank you for visiting my GitHub profile! I'm looking forward to connecting with you and exploring exciting opportunities.
